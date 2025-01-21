@@ -1,0 +1,17 @@
+D:\Repository\UniTabler\UniTabler.BLL\bin\Debug\net8.0\UniTabler.BLL.deps.json
+D:\Repository\UniTabler\UniTabler.BLL\bin\Debug\net8.0\UniTabler.BLL.dll
+D:\Repository\UniTabler\UniTabler.BLL\bin\Debug\net8.0\UniTabler.BLL.pdb
+D:\Repository\UniTabler\UniTabler.BLL\bin\Debug\net8.0\UniTabler.Common.dll
+D:\Repository\UniTabler\UniTabler.BLL\bin\Debug\net8.0\UniTabler.Utils.dll
+D:\Repository\UniTabler\UniTabler.BLL\bin\Debug\net8.0\UniTabler.Common.pdb
+D:\Repository\UniTabler\UniTabler.BLL\bin\Debug\net8.0\UniTabler.Utils.pdb
+D:\Repository\UniTabler\UniTabler.BLL\obj\Debug\net8.0\UniTabler.BLL.csproj.AssemblyReference.cache
+D:\Repository\UniTabler\UniTabler.BLL\obj\Debug\net8.0\UniTabler.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\UniTabler\UniTabler.BLL\obj\Debug\net8.0\UniTabler.BLL.AssemblyInfoInputs.cache
+D:\Repository\UniTabler\UniTabler.BLL\obj\Debug\net8.0\UniTabler.BLL.AssemblyInfo.cs
+D:\Repository\UniTabler\UniTabler.BLL\obj\Debug\net8.0\UniTabler.BLL.csproj.CoreCompileInputs.cache
+D:\Repository\UniTabler\UniTabler.BLL\obj\Debug\net8.0\UniTable.D72B3DF9.Up2Date
+D:\Repository\UniTabler\UniTabler.BLL\obj\Debug\net8.0\UniTabler.BLL.dll
+D:\Repository\UniTabler\UniTabler.BLL\obj\Debug\net8.0\refint\UniTabler.BLL.dll
+D:\Repository\UniTabler\UniTabler.BLL\obj\Debug\net8.0\UniTabler.BLL.pdb
+D:\Repository\UniTabler\UniTabler.BLL\obj\Debug\net8.0\ref\UniTabler.BLL.dll
