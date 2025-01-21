@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using UniTabler.Common.Interfaces.RideInformation;
 using UniTabler.Common.Models;
 using System.Collections.Generic;
