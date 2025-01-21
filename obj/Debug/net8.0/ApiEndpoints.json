@@ -1,0 +1,64 @@
+[
+  {
+    "ContainingType": "UniTabler.API.Controllers.RideInformationController",
+    "Method": "GetPickUpLocationByAverageTipAmount",
+    "RelativePath": "api/RideInformation/highest-average-tip",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UniTabler.API.Controllers.RideInformationController",
+    "Method": "GetRideByPickUpId",
+    "RelativePath": "api/RideInformation/rides-by-pickup/{pickUpId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pickUpId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UniTabler.API.Controllers.RideInformationController",
+    "Method": "GetTopLongestFaresByDistance",
+    "RelativePath": "api/RideInformation/top-longest-distance",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UniTabler.API.Controllers.RideInformationController",
+    "Method": "GetTopLongestFaresByTime",
+    "RelativePath": "api/RideInformation/top-longest-duration",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CsvUploadController",
+    "Method": "UploadCsvFromUrl",
+    "RelativePath": "upload-csv-from-url",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CsvUploadController\u002BUploadRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

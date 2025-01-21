@@ -1,0 +1,113 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "UniTabler.Service",
+    "version": "1.0"
+  },
+  "paths": {
+    "/upload-csv-from-url": {
+      "post": {
+        "tags": [
+          "CsvUpload"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UploadRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UploadRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UploadRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/RideInformation/highest-average-tip": {
+      "get": {
+        "tags": [
+          "RideInformation"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/RideInformation/rides-by-pickup/{pickUpId}": {
+      "get": {
+        "tags": [
+          "RideInformation"
+        ],
+        "parameters": [
+          {
+            "name": "pickUpId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/RideInformation/top-longest-distance": {
+      "get": {
+        "tags": [
+          "RideInformation"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/RideInformation/top-longest-duration": {
+      "get": {
+        "tags": [
+          "RideInformation"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "UploadRequest": {
+        "type": "object",
+        "properties": {
+          "csvUrl": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
