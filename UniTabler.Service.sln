@@ -1,0 +1,62 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTabler.Service", "UniTabler.Service.csproj", "{68667153-AECD-4BD1-963F-1D4773DA43F7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{73CD1F55-2BD8-441D-B44A-24F69DC82542} = {73CD1F55-2BD8-441D-B44A-24F69DC82542}
+		{80A5FB1B-67E6-40CF-B1FF-1695A0103172} = {80A5FB1B-67E6-40CF-B1FF-1695A0103172}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTabler.BLL", "..\UniTabler.BLL\UniTabler.BLL.csproj", "{73CD1F55-2BD8-441D-B44A-24F69DC82542}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTabler.DAL", "..\UniTabler.DAL\UniTabler.DAL.csproj", "{FF6B019F-760C-4E57-ADA2-9EE9647C8161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTabler.Common", "..\UniTabler.Common\UniTabler.Common.csproj", "{80A5FB1B-67E6-40CF-B1FF-1695A0103172}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A0458050-ECD7-46C8-A315-8B4E136A1CD2} = {A0458050-ECD7-46C8-A315-8B4E136A1CD2}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTabler.CLI", "..\UniTabler.CLI\UniTabler.CLI.csproj", "{DA3ADCFF-D9C2-4380-A8E6-2B82CF354F50}"
+	ProjectSection(ProjectDependencies) = postProject
+		{73CD1F55-2BD8-441D-B44A-24F69DC82542} = {73CD1F55-2BD8-441D-B44A-24F69DC82542}
+		{80A5FB1B-67E6-40CF-B1FF-1695A0103172} = {80A5FB1B-67E6-40CF-B1FF-1695A0103172}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTabler.Utils", "..\UniTabler.Utils\UniTabler.Utils.csproj", "{A0458050-ECD7-46C8-A315-8B4E136A1CD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68667153-AECD-4BD1-963F-1D4773DA43F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68667153-AECD-4BD1-963F-1D4773DA43F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68667153-AECD-4BD1-963F-1D4773DA43F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68667153-AECD-4BD1-963F-1D4773DA43F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73CD1F55-2BD8-441D-B44A-24F69DC82542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73CD1F55-2BD8-441D-B44A-24F69DC82542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73CD1F55-2BD8-441D-B44A-24F69DC82542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73CD1F55-2BD8-441D-B44A-24F69DC82542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF6B019F-760C-4E57-ADA2-9EE9647C8161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6B019F-760C-4E57-ADA2-9EE9647C8161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6B019F-760C-4E57-ADA2-9EE9647C8161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6B019F-760C-4E57-ADA2-9EE9647C8161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A5FB1B-67E6-40CF-B1FF-1695A0103172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A5FB1B-67E6-40CF-B1FF-1695A0103172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A5FB1B-67E6-40CF-B1FF-1695A0103172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A5FB1B-67E6-40CF-B1FF-1695A0103172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3ADCFF-D9C2-4380-A8E6-2B82CF354F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3ADCFF-D9C2-4380-A8E6-2B82CF354F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3ADCFF-D9C2-4380-A8E6-2B82CF354F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3ADCFF-D9C2-4380-A8E6-2B82CF354F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0458050-ECD7-46C8-A315-8B4E136A1CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0458050-ECD7-46C8-A315-8B4E136A1CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0458050-ECD7-46C8-A315-8B4E136A1CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0458050-ECD7-46C8-A315-8B4E136A1CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
