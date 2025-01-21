@@ -1,4 +1,4 @@
-﻿using UniTabler.BLL.CSVParserFactory;
+using UniTabler.BLL.CSVParserFactory;
 using UniTabler.Common.Interfaces.CSVParser;
 using UniTabler.Common.Interfaces.CSVParserFactory;
 using UniTabler.Common.Mappers;

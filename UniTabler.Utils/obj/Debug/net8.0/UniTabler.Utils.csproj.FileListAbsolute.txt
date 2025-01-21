@@ -1,0 +1,12 @@
+D:\Repository\UniTabler\UniTabler.Utils\bin\Debug\net8.0\UniTabler.Utils.deps.json
+D:\Repository\UniTabler\UniTabler.Utils\bin\Debug\net8.0\UniTabler.Utils.dll
+D:\Repository\UniTabler\UniTabler.Utils\bin\Debug\net8.0\UniTabler.Utils.pdb
+D:\Repository\UniTabler\UniTabler.Utils\obj\Debug\net8.0\UniTabler.Utils.csproj.AssemblyReference.cache
+D:\Repository\UniTabler\UniTabler.Utils\obj\Debug\net8.0\UniTabler.Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\UniTabler\UniTabler.Utils\obj\Debug\net8.0\UniTabler.Utils.AssemblyInfoInputs.cache
+D:\Repository\UniTabler\UniTabler.Utils\obj\Debug\net8.0\UniTabler.Utils.AssemblyInfo.cs
+D:\Repository\UniTabler\UniTabler.Utils\obj\Debug\net8.0\UniTabler.Utils.csproj.CoreCompileInputs.cache
+D:\Repository\UniTabler\UniTabler.Utils\obj\Debug\net8.0\UniTabler.Utils.dll
+D:\Repository\UniTabler\UniTabler.Utils\obj\Debug\net8.0\refint\UniTabler.Utils.dll
+D:\Repository\UniTabler\UniTabler.Utils\obj\Debug\net8.0\UniTabler.Utils.pdb
+D:\Repository\UniTabler\UniTabler.Utils\obj\Debug\net8.0\ref\UniTabler.Utils.dll

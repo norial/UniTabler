@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mz+7N4Bu/Ck=",
+  "success": true,
+  "projectFilePath": "D:\\Repository\\UniTabler\\UniTabler.Utils\\UniTabler.Utils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\molls\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
