@@ -1,0 +1,15 @@
+D:\Repository\UniTabler\UniTabler.Common\bin\Debug\net8.0\UniTabler.Common.deps.json
+D:\Repository\UniTabler\UniTabler.Common\bin\Debug\net8.0\UniTabler.Common.dll
+D:\Repository\UniTabler\UniTabler.Common\bin\Debug\net8.0\UniTabler.Common.pdb
+D:\Repository\UniTabler\UniTabler.Common\bin\Debug\net8.0\UniTabler.Utils.dll
+D:\Repository\UniTabler\UniTabler.Common\bin\Debug\net8.0\UniTabler.Utils.pdb
+D:\Repository\UniTabler\UniTabler.Common\obj\Debug\net8.0\UniTabler.Common.csproj.AssemblyReference.cache
+D:\Repository\UniTabler\UniTabler.Common\obj\Debug\net8.0\UniTabler.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\UniTabler\UniTabler.Common\obj\Debug\net8.0\UniTabler.Common.AssemblyInfoInputs.cache
+D:\Repository\UniTabler\UniTabler.Common\obj\Debug\net8.0\UniTabler.Common.AssemblyInfo.cs
+D:\Repository\UniTabler\UniTabler.Common\obj\Debug\net8.0\UniTabler.Common.csproj.CoreCompileInputs.cache
+D:\Repository\UniTabler\UniTabler.Common\obj\Debug\net8.0\UniTable.B96914A5.Up2Date
+D:\Repository\UniTabler\UniTabler.Common\obj\Debug\net8.0\UniTabler.Common.dll
+D:\Repository\UniTabler\UniTabler.Common\obj\Debug\net8.0\refint\UniTabler.Common.dll
+D:\Repository\UniTabler\UniTabler.Common\obj\Debug\net8.0\UniTabler.Common.pdb
+D:\Repository\UniTabler\UniTabler.Common\obj\Debug\net8.0\ref\UniTabler.Common.dll
